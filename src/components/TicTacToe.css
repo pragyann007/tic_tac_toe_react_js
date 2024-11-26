@@ -1,0 +1,22 @@
+
+.page{
+    width: 100vw;
+    height: 100vh;
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.row .btn{
+    width: 90px;
+    height: 90px;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: cursive;
+
+}
